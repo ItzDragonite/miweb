@@ -1,0 +1,10 @@
+[user]
+	email = edison_garcia14@hotmail.com
+	name = Edison Garcia
+[core]
+	editor = code --wait
+	autocrlf = true
+[safe]
+	directory = C:/Program Files/Git/home/repon
+	directory = C:/Program Files/Git/home/repon
+	directory = C:/Program Files/Git/_w/archivo1.txt/archivo1.txt
